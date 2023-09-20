@@ -11,7 +11,7 @@ const Dashboard = () => {
                 <div className="flex flex-col lg:w-[30%] lg:border-r-2 border-black  h-fit lg:min-h-screen bg-gray-300 p-16">
                 <div className="avatar">
                 <div className="w-24 rounded-full ring ring-primary ring-offset-base-100 ring-offset-2">
-                    <img src='./img/profile.jpg' />
+                    <img src='https://i.ibb.co/NCGYYDX/profile.jpg' />
                 </div>
                 </div>
                 <ul className="mt-5 text-xl font-semibold space-y-5">
@@ -57,7 +57,7 @@ const Dashboard = () => {
             <li className="py-3 sm:py-4">
                 <div className="flex items-center space-x-4">
                     <div className="flex-shrink-0">
-                        <img className="w-8 h-8 rounded-full" src="./img/man-1.jpg" alt="Neil image"/>
+                        <img className="w-8 h-8 rounded-full" src="https://i.ibb.co/NCGYYDX/profile.jpg" alt="Neil image"/>
                     </div>
                     <div className="flex-1 min-w-0">
                         <p className="text-sm font-medium  truncate ">
@@ -75,7 +75,7 @@ const Dashboard = () => {
             <li className="py-3 sm:py-4">
                 <div className="flex items-center space-x-4">
                     <div className="flex-shrink-0">
-                        <img className="w-8 h-8 rounded-full" src="./img/man-2.jpg" alt="Bonnie image"/>
+                        <img className="w-8 h-8 rounded-full" src="https://i.ibb.co/NCGYYDX/profile.jpg" alt="Bonnie image"/>
                     </div>
                     <div className="flex-1 min-w-0">
                         <p className="text-sm font-medium  truncate ">
@@ -93,7 +93,7 @@ const Dashboard = () => {
             <li className="py-3 sm:py-4">
                 <div className="flex items-center space-x-4">
                     <div className="flex-shrink-0">
-                        <img className="w-8 h-8 rounded-full" src="./img/man-3.jpg" alt="Michael image"/>
+                        <img className="w-8 h-8 rounded-full" src="https://i.ibb.co/NCGYYDX/profile.jpg" alt="Michael image"/>
                     </div>
                     <div className="flex-1 min-w-0">
                         <p className="text-sm font-medium  truncate ">
@@ -111,7 +111,7 @@ const Dashboard = () => {
             <li className="py-3 sm:py-4">
                 <div className="flex items-center space-x-4">
                     <div className="flex-shrink-0">
-                        <img className="w-8 h-8 rounded-full" src="./img/profile.jpg" alt="Lana image"/>
+                        <img className="w-8 h-8 rounded-full" src="https://i.ibb.co/NCGYYDX/profile.jpg" alt="Lana image"/>
                     </div>
                     <div className="flex-1 min-w-0">
                         <p className="text-sm font-medium  truncate ">
@@ -129,7 +129,7 @@ const Dashboard = () => {
             <li className="pt-3 pb-0 sm:pt-4">
                 <div className="flex items-center space-x-4">
                     <div className="flex-shrink-0">
-                        <img className="w-8 h-8 rounded-full" src="./img/man-4.jpg" alt="Thomas image"/>
+                        <img className="w-8 h-8 rounded-full" src="https://i.ibb.co/NCGYYDX/profile.jpg" alt="Thomas image"/>
                     </div>
                     <div className="flex-1 min-w-0">
                         <p className="text-sm font-medium  truncate ">

@@ -7,7 +7,7 @@ const Home = () => {
             <div className="hero min-h-screen container mx-auto">
         <div className=" flex flex-col lg:flex-row-reverse">
 
-            <img src="../img/delevery-woman-removebg-preview.png" className=" rounded-lg" />
+            <img src="https://i.ibb.co/TqKvj1v/delevery-woman-removebg-preview.png" className=" rounded-lg" />
  
             <div className="flex-1 p-10 lg:mt-5">
             <h1 className="text-3xl  md:text-5xl font-bold"><span className="text-fuchsia-600">No 1 Fast Food</span> delevery in bangladesh !!!</h1>
